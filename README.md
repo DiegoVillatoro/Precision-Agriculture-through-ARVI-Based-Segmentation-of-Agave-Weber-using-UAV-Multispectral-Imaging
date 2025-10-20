@@ -1,7 +1,8 @@
 # Shadow Attenuation in UAV Multispectral Imaging to Enhance ARVI for Agave Segmentation
 Segmentation of Agave plants using ARVI with UAV multispectral images
 
-Related paper:
+Related paper: Shadow Attenuation in UAV Multispectral Imaging for Enhanced Agave Segmentation in:
+https://doi.org/10.1007/978-3-032-09044-7_22
 
 <p>Data can be downloaded in: https://figshare.com/s/bf74681957a2e3c20ba1</p>
 The data of the images are tif files with the multispectral data of the image
